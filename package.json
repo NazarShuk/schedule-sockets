@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "name": "schedule-sockets",
+  "version": "1.0.0",
+  "description": "The socket backend for the schedule app on nshis.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "NshIS",
+  "license": "ISC"
+}
